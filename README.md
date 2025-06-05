@@ -1,6 +1,6 @@
 # Lion APP
 
-Este projeto é uma ferramenta uma ferramenta para auxiliar no levantamento e na organização das informações essenciais para a declaração de imposto de renda desenvolvida como exercício para o curso "Bootcamp Santander Excel com Inteligência Artificial".
+Este projeto é uma ferramenta para auxiliar no levantamento e na organização das informações essenciais para a declaração de imposto de renda desenvolvida como exercício para o curso "Bootcamp Santander Excel com Inteligência Artificial".
 
 ## Visão Geral
 
