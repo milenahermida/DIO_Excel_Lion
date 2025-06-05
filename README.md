@@ -16,8 +16,10 @@ A ferramenta auxilia o usuário a reunir informações essencias para a declara�
     * Nessa tela devem ser informadas as entradas de recursos, de acordo com cada categoria.
 
 
-## Observações
+## ⚠️ Avisos
 
-Esta ferramenta é para fins educacionais e ilustrativos.
+- Este projeto é apenas um exemplo e não deve ser utilizado com dados reais para fins públicos.
+- Todos os dados pessoais apresentados são **fictícios**.
+- Esta ferramenta é para fins educacionais e ilustrativos.
 
 ---
